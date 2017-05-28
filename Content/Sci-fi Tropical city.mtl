@@ -1,0 +1,17 @@
+# Exported from 3D Builder
+
+newmtl material_1
+Kd 1.000000 1.000000 1.000000
+map_Kd snd2_01.jpg
+
+newmtl material_1_mountain
+Kd 1.000000 1.000000 1.000000
+map_Kd mtlm1.jpg
+
+newmtl default
+Kd 1.000000 1.000000 1.000000
+map_Kd 1thr.jpg
+
+newmtl default_bldgs2
+Kd 1.000000 1.000000 1.000000
+map_Kd axq2.jpg
